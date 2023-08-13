@@ -3,9 +3,9 @@ import mysql.connector
 # MySQLに接続
 db_connection = mysql.connector.connect(
     host='localhost',
-    user='root',
-    password='@habanero35',
-    database='keiba'
+    user='your_name',
+    password='your_password',
+    database='your_database'
 )
 
 # 競馬場挿入のクエリ
