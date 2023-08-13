@@ -11,7 +11,8 @@
 ## パッケージ
 
 以下はプロジェクトが使用する主な依存関係です。
-
+```bash
+npm install
 - `bcrypt`: ^5.1.0
 - `cookie-parser`: ^1.4.6
 - `cors`: ^2.8.5
