@@ -2,10 +2,10 @@ import mysql.connector
 
 # MySQL接続情報を設定
 config = {
-    "user": "root",      # データベースのユーザー名
-    "password": "@habanero35",  # データベースのパスワード
+    "user": "your_name",      # データベースのユーザー名
+    "password": "your_password",  # データベースのパスワード
     "host": "localhost",          # データベースのホスト名
-    "database": "keiba"   # データベース名
+    "database": "your_database"   # データベース名
 }
 
 # MySQLサーバーに接続
