@@ -1,0 +1,14 @@
+/* 全体 */
+.div {
+    margin: 25px;
+}
+
+/* プルダウン間隔 */
+.spacer {
+    margin-top: 15px;
+}
+
+/* プルダウン幅 */
+.form-width {
+    width: 200px;
+}
